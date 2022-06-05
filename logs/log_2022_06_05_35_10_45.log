@@ -1,0 +1,19 @@
+2022-06-05 22:35:49,484  INFO [main] NoBroker:27 - Browser opened successfully
+2022-06-05 22:35:54,501  INFO [main] NoBroker:36 - url hited
+2022-06-05 22:36:11,270  INFO [main] NoBroker:39 - Locality has been set to White Field
+2022-06-05 22:36:16,529  INFO [main] NoBroker:59 - Buying Properties in White Field Banglore are visible
+2022-06-05 22:36:32,148  INFO [main] NoBroker:47 - Locality has been set to MG Road
+2022-06-05 22:36:39,460  INFO [main] NoBroker:66 - Buying Properties in MG Road Banglore are visible
+2022-06-05 22:36:50,913  INFO [main] NoBroker:44 - Locality has been set to Tipu Sultan
+2022-06-05 22:37:01,268  INFO [main] NoBroker:63 - Commercial Properties in Tipu Sultan Banglore are visible
+2022-06-05 22:37:31,698  INFO [main] NoBroker:48 - Painting and cleaning page is showing
+2022-06-05 22:38:03,499  INFO [main] NoBroker:42 - Navigated to Seller Plan Page
+2022-06-05 22:38:06,569  INFO [main] NoBroker:50 - Verified title of plan at Seller Plan Page
+2022-06-05 22:38:09,627  INFO [main] NoBroker:55 - Verified amount of plan at Seller Plan Page
+2022-06-05 22:38:41,187  INFO [main] NoBroker:45 - Navigated to Owner Plan Page
+2022-06-05 22:38:44,243  INFO [main] NoBroker:53 - Verified title of plan at Owner Plan Page
+2022-06-05 22:38:47,298  INFO [main] NoBroker:58 - Verified amount of plan at Owner Plan Page
+2022-06-05 22:39:03,821  INFO [main] NoBroker:42 - Navigated to Corportae Inquiry Page
+2022-06-05 22:39:06,900  INFO [main] NoBroker:49 - Clicked on the home services option
+2022-06-05 22:39:18,387  INFO [main] NoBroker:35 - Clicked on the Packers and movers option
+2022-06-05 22:39:21,441  INFO [main] NoBroker:43 - Verified title at Packers and Movers Page
